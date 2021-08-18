@@ -21,7 +21,7 @@ Başlamadan önce siber güvenlik ve programlama konusunda kendinizi geliştirme
 
 Sorunuzu sormadan önce, öncelikle Hz. Google'dan yardım alın, bu konuda google nasıl kullanılır, arama yaparken nelere dikkat edilmeli, hangi anahtar kelimelerle arama yapılmalı gibi konuları bilmeniz; sadece siber güvenlikte değil, günlük hayattaki tüm işlerinizi de hallederken size yardımcı olacaktır. Aşağıdaki diyagram net bir şekilde açıklıyor: 
 
-![Nasıl soru sorulur?](https://raw.githubusercontent.com/SoftSec-git/kaynaklar/main/question.svg)
+![Nasıl soru sorulur?](https://raw.githubusercontent.com/soft-sec-git/kaynaklar/main/question.svg)
 
 ## CTF & King-Off-the-Hill
 #### CTF nedir?
