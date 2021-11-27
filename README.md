@@ -13,7 +13,7 @@ CTF(Capture the flag), bayrağı yakala adıyla bilinen siber güvenlik alanınd
 #### King of the Hill nedir?
 King of The Hill en basit tanımıyla yarışmacıların belli bir süre içerisinde verilen CTF'deki tüm flagleri toplaması ve yetki yükseltmesidir. Toplanılan her flag başına puan kazanılmakta ve en çok puanı toplayan kişi "King (Kral)" olarak oyunu kazanmaktadır.
 
-Bizler CTF ve King Off the Hill tarzı yarışmalar yapıyoruz. Katılmak veya izlemek istersen seni de [discord](https://discord.gg/BQYJxfQMeR) sunucumuza bekleriz. 
+Bizler CTF ve King Off the Hill tarzı yarışmalar yapıyoruz. Katılmak veya izlemek istersen seni de [discord](https://discord.gg/u4cX3RnPkN) sunucumuza bekleriz. 
 
 <details>
 <summary>CTF için lab ortamları</summary>
